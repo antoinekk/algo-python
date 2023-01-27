@@ -8,7 +8,7 @@ Algorithm to optimize and resolve knapsack problem.
 To clone the repository
 
 ```
-git clone https://github.com/antoinekk/algo-py.git <your path>
+git clone https://github.com/antoinekk/algo-python.git <your path>
 ```
 
 To run the optimized algo
